@@ -56,7 +56,6 @@ if (isset($_POST['Login'])) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Form Login</title>
-  <link rel="stylesheet" href="admin.css">
 </head>
 
 <style>
@@ -225,9 +224,6 @@ body {
 
   <!-- Form Login -->
   <div class="container">
-    <div class="logo">
-      <img src="asset/img/logo.png" alt="Logo">
-    </div>
     <div class="form">
       <h2>Admin GYMs</h2>
       <div class="user">
